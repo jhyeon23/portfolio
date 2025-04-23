@@ -12,7 +12,7 @@ B.A. in Public Relations & Marketing; B.B.A. in Business Analytics (Mar 2021 –
 <h1>Projects</h1>
 <table>
   <tr>
-    <td> <img scr = 'https://monashdatafluency.github.io/python-web-scraping/images/request.png' alt = 'Web Scraping Image' width = '150'> </td> 
+    <td> <img scr = 'https://github.com/jhyeon23/portfolio/blob/main/request.png' alt = 'Web Scraping Image' width = '150'> </td> 
     <td>project description</td>
   </tr>
   <tr>
