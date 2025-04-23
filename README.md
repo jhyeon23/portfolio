@@ -13,7 +13,7 @@ B.A. in Public Relations & Marketing; B.B.A. in Business Analytics (Mar 2021 –
 <table>
   <tr>
     <td> <img scr = 'https://github.com/jhyeon23/portfolio/blob/main/request.png' alt = 'Web Scraping Image' width = '150'> </td> 
-    <td>project description</td>
+    <td> In this project, I used BeautifulSoup to scrape data from multiple websites, including Books to Scrape and Mathjobs, <a href = 'https://github.com/jhyeon23/webscraping'> Link</a> </td>
   </tr>
   <tr>
     <td> project image </td> <td>project description</td>
