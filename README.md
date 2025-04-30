@@ -16,7 +16,7 @@ B.A. in Public Relations & Marketing; B.B.A. in Business Analytics (Mar 2021 –
     <td> <a href = 'https://github.com/jhyeon23/webscraping'> Web Scraping Project</a> - I used BeautifulSoup to scrape data from multiple websites, including <a href = 'https://github.com/jhyeon23/webscraping'> Books to Scrape</a> and <a href = 'https://www.mathjobs.org/jobs?joblist-0-0------'> Mathjobs</a>
   </tr>
   <tr>
-    <td> project image </td> <td><a href = 'https://github.com/jhyeon23/Capstone-911-Emergency-Call-Analysis/blob/main/Data_2365_Sp25_Final_Project_JeonghyeonPark.ipynb'> 911 Emergency Data Analysis</a> - I used Matplotlib and Seaborn to analyze 911 call data</td>
+    <td> project image </td> <td> <a href = 'https://github.com/jhyeon23/Capstone-911-Emergency-Call-Analysis/blob/main/Data_2365_Sp25_Final_Project_JeonghyeonPark.ipynb'> 911 Emergency Data Analysis</a> - I used Matplotlib and Seaborn to analyze 911 call data</td>
   </tr>
 </table>
 
